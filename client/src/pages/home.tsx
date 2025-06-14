@@ -59,7 +59,7 @@ export default function Home() {
 
       <ScrollSection
         id="scroll2"
-        text="Keep scrolling..."
+        text="Again..."
         isVisible={visibleSections.has('scroll2')}
       />
 
